@@ -1,2 +1,3 @@
-# teleports
-eu arranjei este teleport  e adaptei o para pessoas e para os carros tbm
+# Teleports
+
+#Teleportes Alterados Que Dao Para Pessoas e Viaturas
